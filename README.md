@@ -1,30 +1,21 @@
-I’m a Full Stack Developer with 6+ years of experience building robust web and mobile applications. My core focus is delivering clean, scalable, and maintainable solutions using modern JavaScript and PHP frameworks.
+<h3 align="center"> Hi there 👋</h3>
 
----
+<p align="center">
+I'm Akas, a self-motivated tech enthusiast and full stack web developer.
+</p>
 
-## 🚀 Tech Stack
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/machnetinc">@Machnet</a> | 🌱 building <a href="https://github.com/akasrai/daily-quiz-mobile">Daily Quiz</a> | 💬 connect <a href="https://twitter.com/akasrai_">@akasrai_</a>
+</h4>
+<p  align="center">
+<a href="https://akasrai.github.io/">https://akasrai.github.io</a>
+</p>
 
-- **Frontend:** React, Vue.js, Next.js, Tailwind CSS
-- **Backend:** Node.js (Express), Laravel, CodeIgniter
-- **Mobile:** React Native, Flutter
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps / Tools:** Docker, Git, GitHub Actions, REST & GraphQL APIs
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
 
----
-
-## 🛠️ What I Do
-
-- Full-cycle development of web applications: from frontend UIs to backend APIs
-- Mobile app development using cross-platform frameworks
-- Integration with third-party APIs and services
-- Building admin panels, dashboards, e-commerce, SaaS, and ERP solutions
-
----
-
-## 📈 Projects & Contributions
-
-You'll find a variety of projects on my GitHub — from personal experiments to client work and contributions to open source. I value clean code, performance, and thoughtful architecture.
-
----
-
-Let's build something great.
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+</h3>
