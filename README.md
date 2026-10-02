@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on Shopify App development
+Senior Software Engineer
 
 
 ## 🌐 Socials:
